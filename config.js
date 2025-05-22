@@ -8,40 +8,37 @@ import axios from 'axios'
 import moment from 'moment-timezone' 
 
 global.owner = [
-   ['51927238856', 'Dev.Criss', true],
-   ['51953857556', 'Shadow', true],
-   ['5493865536185', 'Kenisawa (Colab)', false],
-   ['56940074825', 'Undefined', false]
+   ['584262668729', 'PantheonShop', true]
 ]
 
 global.creadorbot = [
-   ['51927238856', 'Cristian Escobar', true]
+   ['584262668729', 'Cristian Escobar', true]
 ]
 
-global.mods = ['51990841568', '51953587566']
-global.prems = ['51965911060']
+global.mods = ['584262668729', '584262668729']
+global.prems = ['584262668729']
 
 
-global.packname = 'ShadowUtra'
-global.botname = '(✦◠‿◠)ShadowBot-MD'
-global.wm = '⏤͟͟͞͞⋆⬪࣪ꥈ☕★ ׄ ꒱ Shadow ୭'
-global.author = 'By Criss'
-global.dev = '© 𝖯᥆𝗐ᥱ𝗋ᥱძ ᑲᥡ 𝖲ᥙᥒ𝖿ᥣᥲ𝗋ᥱ  ☂︎  𝖳ᥱᥲ𝗆'
+global.packname = '【✧】Pantheon-Bot ❖'
+global.botname = 'Pantheon-Bot'
+global.wm = 'Pantheon-Bot'
+global.author = 'Pantheon-Bot'
+global.dev = 'Pantheon-Bot'
 global.errorm = 'Error: ${error.message}'
-global.nombrebot = 'Shadow Bot - MD'
-global.textbot = `⿻ ׄ ˚. Տ𝗁⍺𝖽ᦅա  ⚡︎  𝖴𝗅ł𝗋⍺ ׄㅤ🥞ᩧᰰ˚`
+global.nombrebot = 'Pantheon Bot'
+global.textbot = `「 🏛 Pantheon - Bot 🏛 」`
 global.vs = '3.0.0'
 
 global.catalogo = fs.readFileSync('./media/catalogo.jpg')
 
-global.repobot = 'https://github.com/CrxstianEscobar/ShadowUltra-MD'
-global.grupo = 'https://chat.whatsapp.com/Caj518FwPjHLVmGn48GvhW'
-global.comu = 'https://chat.whatsapp.com/Kn1pPVAO08pFRo7qJnKuh6'
-global.channel = 'https://whatsapp.com/channel/0029VauTE8AHltY1muYir31n'
-global.insta = 'https://www.instagram.com/dev.criss_vx'
+global.repobot = 'https://whatsapp.com/channel/0029Vb3ahtE96H4Lk7DfEU0B'
+global.grupo = 'https://chat.whatsapp.com/HvDCvNqXSiW19MFXJmWhoF'
+global.comu = 'https://whatsapp.com/channel/0029Vb3ahtE96H4Lk7DfEU0B'
+global.channel = 'https://whatsapp.com/channel/0029Vb3ahtE96H4Lk7DfEU0B'
+global.insta = 'https://whatsapp.com/channel/0029Vb3ahtE96H4Lk7DfEU0B'
 
 
-global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "543876577197-120363317332020195@g.us" } : {}) }, message: { orderMessage: { itemCount : -999999, status: 1, surface : 1, message: 'Sunflare  乂  Team', orderTitle: 'Bang', thumbnail: catalogo, sellerJid: '0@s.whatsapp.net'}}}
+global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "584262668729-120363317332020195@g.us" } : {}) }, message: { orderMessage: { itemCount : -999999, status: 1, surface : 1, message: 'Sunflare  乂  Team', orderTitle: 'Bang', thumbnail: catalogo, sellerJid: '0@s.whatsapp.net'}}}
 
 
 global.cheerio = cheerio
