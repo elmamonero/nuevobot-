@@ -32,15 +32,15 @@ let who = m.mentionedJid && m.mentionedJid[0] ? m.mentionedJid[0] : m.fromMe ? c
 //let pp = await conn.profilePictureUrl(who, 'image').catch(_ => 'https://telegra.ph/file/327f6ad853cb4f405aa80.jpg')
 
 //CREADOR Y OTROS
-global.creador = 'Wa.me/51927238856'
+global.creador = 'Wa.me/584262668729'
 global.botreal = `${(conn.user.jid == global.conn.user.jid ? 'Oficial' : 'Sub-Bot')}`
 global.ofcbot = `${conn.user.jid.split('@')[0]}`
-global.asistencia = 'Wa.me/51927238856'
-global.namech = '𝑺𝒉𝒂𝒅𝒐𝒘 𝑩𝒐𝒕 - 𝑴𝑫'
-global.namechannel2 = 'ꘓꘓ   ໒☀️ؑ   𝖲ᥙᥒ𝖿͟ᥣ͟ᥲ𝗋ᥱࣲ  𝖳ᥱᥲ𝗆 彡'
-global.namegrupo = 'Group Shadow Oficial'
-global.namecomu = 'Sunflare Community'
-global.namecomu2 = 'Nova Spark Community'
+global.asistencia = 'Wa.me/584262668729'
+global.namech = '˒𖥻˚𝐏𝐀𝐍𝐓𝐇𝐄𝐎𝐍 - 𝐂𝐡𝐚𝐧𝐧𝐞𝐥﹋꥟'
+global.namechannel2 = '˒𖥻˚𝐏𝐀𝐍𝐓𝐇𝐄𝐎𝐍 - 𝐂𝐡𝐚𝐧𝐧𝐞𝐥﹋꥟'
+global.namegrupo = 'Group Pantheon Oficial'
+global.namecomu = '『𝗚𝗿𝘂𝗽𝗼 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 PantheonBot✯』'
+global.namecomu2 = 'ThePantheonBot'
 
 //REACCIONES 
 global.rwait = '🕒'
@@ -86,10 +86,10 @@ global.wait = '*⏳ Aguarde un momento...*';
 global.hotw = '*🔥 El contenido* `+18` *está desactivado para este chat.*\n> Use *enable nsfw* para activarlo.';
 
 //ENLACES
-var grupo = 'https://chat.whatsapp.com/FCS6htvAmlT7nq006lxU4I'  
-var github = 'https://github.com/CrxstianEscobar/ShadowBot-MD' 
-var web = 'https://shadow-bot.vercel.app/' 
-let instagram = 'https://www.instagram.com/shadowbot.md'
+var grupo = 'https://chat.whatsapp.com/Fe6gizLeKx83S7plNY0cnC'  
+var github = 'https://whatsapp.com/channel/0029Vb3ahtE96H4Lk7DfEU0B' 
+var web = 'https://whatsapp.com/channel/0029Vb3ahtE96H4Lk7DfEU0B' 
+let instagram = 'https://whatsapp.com/channel/0029Vb3ahtE96H4Lk7DfEU0B'
 
 global.redes = [grupo, github, web, instagram].getRandom()
 
@@ -153,39 +153,39 @@ global.taguser = '@' + m.sender.split("@s.whatsapp.net")
 var more = String.fromCharCode(8206)
 global.readMore = more.repeat(850)
 
-global.authsticker = `Տһᥲ͡ძ͜᥆፝֟ա  ⚡︎  Uᥣ𝗍rᥲ ׄ🍒˚ \n↳@${conn.getName(m.sender)}`;
+global.authsticker = `Pantheon Bot˚ \n↳@${conn.getName(m.sender)}`;
 
-global.packsticker = `ꘓꘓ  ໒☀️ؑ  𝖲ᥙᥒ𝖿͟ᥣ͟ᥲ𝗋ᥱࣲ  𝖳ᥱᥲ𝗆\n↳@team_sunflare`
+global.packsticker = `PantheonBot`
 
 //FAKES
 global.fkontak = { key: { participants:"0@s.whatsapp.net", "remoteJid": "status@broadcast", "fromMe": false, "id": "Halo" }, "message": { "contactMessage": { "vcard": `BEGIN:VCARD\nVERSION:3.0\nN:Sy;Bot;;;\nFN:y\nitem1.TEL;waid=${m.sender.split('@')[0]}:${m.sender.split('@')[0]}\nitem1.X-ABLabel:Ponsel\nEND:VCARD` }}, "participant": "0@s.whatsapp.net" }
 
-global.fake = { contextInfo: { isForwarded: true, forwardedNewsletterMessageInfo: { newsletterJid: '120363318267632676@newsletter', newsletterName: "˚₊·͟͟͟͟͟͟͞͞͞͞͞͞𝑺𝒖𝒏𝒇𝒍𝒂𝒓𝒆 - 𝑻𝒆𝒂𝒎 ೃ࿔₊•", serverMessageId: -1 }
+global.fake = { contextInfo: { isForwarded: true, forwardedNewsletterMessageInfo: { newsletterJid: '120363392742449171@newsletter', newsletterName: "Pantheon Bot", serverMessageId: -1 }
 }}, { quoted: m }
 
 //ID CANALES
-global.idchannel = '120363357231409846@newsletter'
-global.canalIdM = ["120363357231409846@newsletter", "120363357231409846@newsletter", "120363357231409846@newsletter"]
-global.canalNombreM = ["⏤͟͟͞͞𝖲𝗁ᥲძ𝗈ա  ⚡︎  𝖴𝗅𝗍𝗋𝖺۵࿐", "𝑺𝒉𝒂𝒅𝒐𝒘 𝑼𝒍𝒕𝒓𝒂 - 𝑴𝑫", "⏤͟͟͞͞☆ 𝑺𝒉𝒂𝒅𝒐𝒘 - 𝑻𝒆𝒔𝒕"]
+global.idchannel = '120363392742449171@newsletter'
+global.canalIdM = ["120363392742449171@newsletter", "120363392742449171@newsletter", "120363392742449171@newsletter"]
+global.canalNombreM = ["Pantheon Bot", "Pantheon Bot", "Pantheon Bot"]
 global.channelRD = await getRandomChannel()
 // global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "3876577197-120363302285079181@g.us" } : {}) }, message: { orderMessage: { itemCount : -999999, status: 1, surface : 1, message: `${packname}`, orderTitle: 'Bang', thumbnail: icons, sellerJid: '0@s.whatsapp.net'}}}
 
 global.icono = [
-"https://files.catbox.moe/uu9lz5.jpg",
-"https://files.catbox.moe/0a0e5s.jpg",
-"https://files.catbox.moe/xe4y9r.jpg",
-"https://files.catbox.moe/9pm5a8.jpg",
-"https://files.catbox.moe/qs0h5r.jpg",
-"https://files.catbox.moe/m78pwx.jpg",
-"https://files.catbox.moe/ninsr8.jpg",
-"https://files.catbox.moe/73bgpc.jpg",
-"https://files.catbox.moe/8aguf5.jpg",
-"https://files.catbox.moe/g48qfe.jpg",
-"https://files.catbox.moe/0gtahy.jpg",
-"https://files.catbox.moe/z2jdlo.jpg",
-"https://files.catbox.moe/814bhm.jpg",
-"https://files.catbox.moe/y5l3hq.jpg",
-"https://files.catbox.moe/kevttt.jpg",
+"https://files.catbox.moe/kmfqee.jpg",
+"https://files.catbox.moe/kmfqee.jpg",
+"https://files.catbox.moe/kmfqee.jpg",
+"https://files.catbox.moe/kmfqee.jpg",
+"https://files.catbox.moe/kmfqee.jpg",
+"https://files.catbox.moe/kmfqee.jpg",
+"https://files.catbox.moe/kmfqee.jpg",
+"https://files.catbox.moe/kmfqee.jpg",
+"https://files.catbox.moe/kmfqee.jpg",
+"https://files.catbox.moe/kmfqee.jpg",
+"https://files.catbox.moe/kmfqee.jpg",
+"https://files.catbox.moe/kmfqee.jpg",
+"https://files.catbox.moe/kmfqee.jpg",
+"https://files.catbox.moe/kmfqee.jpg",
+"https://files.catbox.moe/kmfqee.jpg",
 ].getRandom()
 
 global.urls = [
