@@ -100,6 +100,13 @@ ${readMore}
 ⠞🍮੭‎ ${usedPrefix}gnula *texto*
 ⠞🍮੭‎ ${usedPrefix}mercadolibre *texto*
 
+↷✦; \`INTELIGENCIAS\` ❞ 🍮︵᷼
+⠞💭੭‎ ${usedPrefix}luminai *texto*
+⠞💭੭‎ ${usedPrefix}chatgpt *texto*
+⠞💭੭‎ ${usedPrefix}flux *texto*
+⠞💭੭‎ ${usedPrefix}toreal *texto*
+⠞💭੭‎ ${usedPrefix}toanime *texto*
+
 ↷✦; \`FRASES\` ❞ 🌻︵᷼ 
 ⠞🌻੭‎ ${usedPrefix}piropo
 ⠞🌻੭‎ ${usedPrefix}consejo
