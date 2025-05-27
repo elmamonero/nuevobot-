@@ -59,31 +59,31 @@ ${readMore}
 ⠞🪻੭‎ ${usedPrefix}manual
 
 ↷✦; \`DOWNLOAD\` ❞ 🪷︵᷼ 
-⠞${xdownload}੭‎  ˚ ${usedPrefix}play *texto*
-⠞🪷੭‎ ${xdownload}˚ ${usedPrefix}aplay *texto*
-⠞🪷੭‎ ${xdownload}˚ ${usedPrefix}aplay2 *texto*
-⠞🪷੭‎ ${xdownload}˚ ${usedPrefix}splay *texto*
-⠞🪷੭‎ ${xdownload}˚ ${usedPrefix}ytmp4doc *texto*
-⠞🪷੭‎ ${xdownload}˚ ${usedPrefix}ytmp3doc *texto*
-⠞🪷੭‎ ${xdownload}˚ ${usedPrefix}apk *texto*
-⠞🪷੭‎ ${xdownload}˚ ${usedPrefix}aptoide *texto*
-⠞🪷੭‎ ${xdownload}˚ ${usedPrefix}modapk *texto*
-⠞🪷੭‎ ${xdownload}˚ ${usedPrefix}pinterest *texto*
-⠞🪷੭‎ ${xdownload}˚ ${usedPrefix}capcut *url*
-⠞🪷੭‎ ${xdownload}˚ ${usedPrefix}pindl *url*
-⠞🪷੭‎ ${xdownload}˚ ${usedPrefix}pinvid *url*
-⠞🪷੭‎ ${xdownload}˚ ${usedPrefix}ytmp4 *url*
-⠞🪷੭‎ ${xdownload}˚ ${usedPrefix}ytmp3 *url*
-⠞🪷੭‎ ${xdownload}˚ ${usedPrefix}tiktok *url*
-⠞🪷੭‎ ${xdownload}˚ ${usedPrefix}tiktok2 *url*
-⠞🪷੭‎ ${xdownload}˚ ${usedPrefix}instagram *url*
-⠞🪷੭‎ ${xdownload}˚ ${usedPrefix}facebook *url*
-⠞🪷੭‎ ${xdownload}˚ ${usedPrefix}mediafire *url*
-⠞🪷੭‎ ${xdownload}˚ ${usedPrefix}mega *url*
-⠞🪷੭‎ ${xdownload}˚ ${usedPrefix}playstore *url*
-⠞🪷੭‎ ${xdownload}˚ ${usedPrefix}xnxxdl *url*
-⠞🪷੭‎ ${xdownload}˚ ${usedPrefix}xvideosdl *url*
-⠞🪷੭‎ ${xdownload}˚ ${usedPrefix}pornhubdl *url*
+⠞🪷੭‎ ${usedPrefix}play *texto*
+⠞🪷੭‎ ${usedPrefix}aplay *texto*
+⠞🪷੭‎ ${usedPrefix}aplay2 *texto*
+⠞🪷੭‎ ${usedPrefix}splay *texto*
+⠞🪷੭‎ ${usedPrefix}ytmp4doc *texto*
+⠞🪷੭‎ ${usedPrefix}ytmp3doc *texto*
+⠞🪷੭‎ ${usedPrefix}apk *texto*
+⠞🪷੭‎ ${usedPrefix}aptoide *texto*
+⠞🪷੭‎ ${usedPrefix}modapk *texto*
+⠞🪷੭‎ ${usedPrefix}pinterest *texto*
+⠞🪷੭‎ ${usedPrefix}capcut *url*
+⠞🪷੭‎ ${usedPrefix}pindl *url*
+⠞🪷੭‎ ${usedPrefix}pinvid *url*
+⠞🪷੭‎ ${usedPrefix}ytmp4 *url*
+⠞🪷੭‎ ${usedPrefix}ytmp3 *url*
+⠞🪷੭‎ ${usedPrefix}tiktok *url*
+⠞🪷੭‎ ${usedPrefix}tiktok2 *url*
+⠞🪷੭‎ ${usedPrefix}instagram *url*
+⠞🪷੭‎ ${usedPrefix}facebook *url*
+⠞🪷੭‎ ${usedPrefix}mediafire *url*
+⠞🪷੭‎ ${usedPrefix}mega *url*
+⠞🪷੭‎ ${usedPrefix}playstore *url*
+⠞🪷੭‎ ${usedPrefix}xnxxdl *url*
+⠞🪷੭‎ ${usedPrefix}xvideosdl *url*
+⠞🪷੭‎ ${usedPrefix}pornhubdl *url*
 
 ↷✦; \`SEARCH\` ❞ 🍮︵᷼ 
 ⠞🍮੭‎ ${usedPrefix}aplaysearch *texto*
