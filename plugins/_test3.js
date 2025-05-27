@@ -59,7 +59,7 @@ ${readMore}
 ⠞🪻੭‎ ${usedPrefix}manual
 
 ↷✦; \`DOWNLOAD\` ❞ 🪷︵᷼ 
-⠞🪷੭‎ ${xdownload}˚ ${usedPrefix}play *texto*
+⠞${xdownload}੭‎  ˚ ${usedPrefix}play *texto*
 ⠞🪷੭‎ ${xdownload}˚ ${usedPrefix}aplay *texto*
 ⠞🪷੭‎ ${xdownload}˚ ${usedPrefix}aplay2 *texto*
 ⠞🪷੭‎ ${xdownload}˚ ${usedPrefix}splay *texto*
