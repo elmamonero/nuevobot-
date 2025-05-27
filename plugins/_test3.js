@@ -201,9 +201,11 @@ ${readMore}
 ⠞🥥੭‎ ${usedPrefix}manca *@tag*
 ⠞🥥੭‎ ${usedPrefix}rata *@tag*
 ⠞🥥੭‎ ${usedPrefix}prostituto *@tag*
-⠞🥥੭‎ ${usedPrefix}prostituta *@tag*
+⠞🥥੭‎ ${usedPrefix}sinpoto *@tag*
+⠞🥥੭‎ ${usedPrefix}sintetas *@tag*
+⠞🥥੭‎ ${usedPrefix}chipi *@tag*
 ⠞🥥੭‎ ${usedPrefix}doxear *@tag*
-⠞🥥੭‎ ${usedPrefix}jalamela *@tag*
+⠞🥥੭‎ ${usedPrefix}declararse *@tag*
 ⠞🥥੭‎ ${usedPrefix}simi *texto*
 ⠞🥥੭‎ ${usedPrefix}pregunta *texto*
 ⠞🥥੭‎ ${usedPrefix}genio *texto*
