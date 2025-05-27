@@ -226,10 +226,49 @@ ${readMore}
 ⠞🎋੭‎ ${usedPrefix}ptt *opción*
 ⠞🎋੭‎ ${usedPrefix}delttt
 ⠞🎋੭‎ ${usedPrefix}acertijo
+⠞🎋੭‎ ${usedPrefix}trivia
 
 ↷✦; \`ANIME\` ❞ 🌾︵᷼ 
 ⠞🌾੭‎ ${usedPrefix}messi
 ⠞🌾੭‎ ${usedPrefix}cr7
+
+↷✦; \`LOGOS\` ❞ 🌾︵᷼ 
+⠞🖼੭‎ ${usedPrefix}balogo *texto*
+⠞🖼੭‎ ${usedPrefix}logocorazon *texto*
+⠞🖼੭‎ ${usedPrefix}logochristmas  *texto*
+⠞🖼੭‎ ${usedPrefix}logopareja *texto*
+⠞🖼੭‎ ${usedPrefix}logoglitch *texto*
+⠞🖼੭‎ ${usedPrefix}logosad *texto*
+⠞🖼੭‎ ${usedPrefix}logogaming *texto*
+⠞🖼੭‎ ${usedPrefix}logosolitario *texto*
+⠞🖼੭‎ ${usedPrefix}logodragonball *texto*
+⠞🖼੭‎ ${usedPrefix}logoneon *texto*
+⠞🖼੭‎ ${usedPrefix}logogatito *texto*
+⠞🖼੭‎ ${usedPrefix}logochicagamer *texto*
+⠞🖼੭‎ ${usedPrefix}logonaruto *texto*
+⠞🖼੭‎ ${usedPrefix}logofuturista *texto*
+⠞🖼੭‎ ${usedPrefix}logonube *texto*
+⠞🖼੭‎ ${usedPrefix}logoangel *texto*
+⠞🖼੭‎ ${usedPrefix}logomurcielago *texto*
+⠞🖼੭‎ ${usedPrefix}logocielo *texto*
+⠞🖼੭‎ ${usedPrefix}logograffiti3d *texto*
+⠞🖼੭‎ ${usedPrefix}logomatrix *texto*
+⠞🖼੭‎ ${usedPrefix}logohorror *texto*
+⠞🖼੭‎ ${usedPrefix}logoalas *texto*
+⠞🖼੭‎ ${usedPrefix}logoarmy *texto*
+⠞🖼੭‎ ${usedPrefix}logopubg *texto*
+⠞🖼੭‎ ${usedPrefix}logopubgfem *texto*
+⠞🖼੭‎ ${usedPrefix}logolol *texto*
+⠞🖼੭‎ ${usedPrefix}logoamon *texto*gus
+⠞🖼੭‎ ${usedPrefix}logovideopubg *texto*
+⠞🖼੭‎ ${usedPrefix}logovideotiger *texto*
+⠞🖼੭‎ ${usedPrefix}logovideointro *texto*
+⠞🖼੭‎ ${usedPrefix}logovideogaming *texto*
+⠞🖼੭‎ ${usedPrefix}logoguerrero *texto*
+⠞🖼੭‎ ${usedPrefix}logoportadaplayer *texto*
+⠞🖼੭‎ ${usedPrefix}logoportadaff *texto*
+⠞🖼੭‎ ${usedPrefix}logoportadapubg *texto*
+⠞🖼੭‎ ${usedPrefix}logoportadacounter *texto*
 
 ↷✦; \`GIFS NSFW\` ❞ 🔥︵᷼ 
 ⠞🔥੭‎ ${usedPrefix}violar *@tag*
@@ -255,8 +294,11 @@ ${readMore}
 ⠞🦋੭‎ ${usedPrefix}sticker *img*
 ⠞🦋੭‎ ${usedPrefix}sticker *vid*
 ⠞🦋੭‎ ${usedPrefix}brat *texto*
+⠞🦋੭‎ ${usedPrefix}bratv *texto*
 ⠞🦋੭‎ ${usedPrefix}qc *texto*
+⠞🦋੭‎ ${usedPrefix}wm *texto*
 ⠞🦋੭‎ ${usedPrefix}dado
+⠞🦋੭‎ ${usedPrefix}scat
 
 ↷✦; \`RPG\` ❞ 💸︵᷼ 
 ⠞💸੭‎ ${usedPrefix}minar
@@ -264,6 +306,12 @@ ${readMore}
 ⠞💸੭ ${usedPrefix}slut
 ⠞💸੭ ${usedPrefix}nivel
 ⠞💸੭ ${usedPrefix}ruleta
+⠞💸੭ ${usedPrefix}robarxp
+⠞💸੭ ${usedPrefix}robardiamantes
+⠞💸੭ ${usedPrefix}depositar
+⠞💸੭ ${usedPrefix}daily
+⠞💸੭ ${usedPrefix}crimen
+⠞💸੭ ${usedPrefix}cartera
 
 ↷✦; \`REGISTRO\` ❞ ☁️︵᷼ 
 ⠞☁️੭ ${usedPrefix}perfil
@@ -278,7 +326,16 @@ ${readMore}
 ⠞👑੭ ${usedPrefix}restart
 ⠞👑੭ ${usedPrefix}join
 ⠞👑੭ ${usedPrefix}chetar
-⠞👑੭ ${usedPrefix}unbanuser`.trim();
+⠞👑੭ ${usedPrefix}unbanuser
+⠞👑੭ ${usedPrefix}banchat
+⠞👑੭ ${usedPrefix}unbanchat
+⠞👑੭ ${usedPrefix}block
+⠞👑੭ ${usedPrefix}unblock
+⠞👑੭ ${usedPrefix}creargc
+⠞👑੭ ${usedPrefix}getplugin
+⠞👑੭ ${usedPrefix}let
+⠞👑੭ ${usedPrefix}dsowner
+⠞👑੭ ${usedPrefix}autoadmin`.trim();
 
     conn.sendMessage(m.chat, {
       text: text,
