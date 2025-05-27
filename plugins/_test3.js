@@ -86,14 +86,17 @@ ${readMore}
 ⠞🪷੭‎ ${usedPrefix}pornhubdl *url*
 
 ↷✦; \`SEARCH\` ❞ 🍮︵᷼ 
-⠞🍮੭‎ ${usedPrefix}aplaysearch *texto*
+⠞🍮੭‎ ${usedPrefix}scsearch *texto*
 ⠞🍮੭‎ ${usedPrefix}ttsearch *texto*
 ⠞🍮੭‎ ${usedPrefix}ttsearch2 *texto*
 ⠞🍮੭‎ ${usedPrefix}ytsearch *texto*
+⠞🍮੭‎ ${usedPrefix}hpmsearch *texto*
 ⠞🍮੭‎ ${usedPrefix}spotifysearch *texto*
+⠞🍮੭‎ ${usedPrefix}githubsearch *texto*
 ⠞🍮੭‎ ${usedPrefix}playstoresearch *texto*
 ⠞🍮੭‎ ${usedPrefix}xnxxsearch *texto*
 ⠞🍮੭‎ ${usedPrefix}xvsearch *texto*
+⠞🍮੭‎ ${usedPrefix}pornhubsearch *texto*
 ⠞🍮੭‎ ${usedPrefix}gnula *texto*
 ⠞🍮੭‎ ${usedPrefix}mercadolibre *texto*
 
