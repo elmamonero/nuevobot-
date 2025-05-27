@@ -120,12 +120,19 @@ ${readMore}
 ⠞🛠️੭‎ ${usedPrefix}read *texto*
 ⠞🛠️੭‎ ${usedPrefix}fake *texto + user + texto*
 ⠞🛠️੭‎ ${usedPrefix}traducir *idioma + texto*
+⠞🛠️੭‎ ${usedPrefix}unblur *img*
 ⠞🛠️੭‎ ${usedPrefix}hd *img*
+⠞🛠️੭‎ ${usedPrefix}remini *img*
+⠞🛠️੭‎ ${usedPrefix}background *img*
 ⠞🛠️੭‎ ${usedPrefix}whatmusic *aud*
 ⠞🛠️੭‎ ${usedPrefix}whatmusic *vid*
 ⠞🛠️੭‎ ${usedPrefix}flag *país*
+⠞🛠️੭‎ ${usedPrefix}cfrase *link + texto*
 ⠞🛠️੭‎ ${usedPrefix}inspect *link*
 ⠞🛠️੭‎ ${usedPrefix}inspeccionar *link*
+⠞🛠️੭‎ ${usedPrefix}tiktokstalk *user*
+⠞🛠️੭‎ ${usedPrefix}pinstalk *user*
+⠞🛠️੭‎ ${usedPrefix}reactch
 ⠞🛠️੭‎ ${usedPrefix}nuevafotochannel
 ⠞🛠️੭‎ ${usedPrefix}nosilenciarcanal
 ⠞🛠️੭‎ ${usedPrefix}silenciarcanal
@@ -141,23 +148,23 @@ ${readMore}
 ↷✦; \`GROUPS\` ❞ 🌿︵᷼ 
 ⠞🌿੭‎ ${usedPrefix}add *número*
 ⠞🌿੭‎ ${usedPrefix}grupo *abrir / cerrar*
+⠞🌿੭‎ ${usedPrefix}inactivos *list / kick*
 ⠞🌿੭‎ ${usedPrefix}grouptime *tiempo*
 ⠞🌿੭‎ ${usedPrefix}notify *texto*
 ⠞🌿੭‎ Aviso *texto*
 ⠞🌿੭‎ Admins *texto*
 ⠞🌿੭‎ ${usedPrefix}todos *texto*
 ⠞🌿੭‎ ${usedPrefix}setwelcome *texto*
+⠞🌿੭‎ ${usedPrefix}setremove *texto*
 ⠞🌿੭‎ ${usedPrefix}setbye *texto*
-⠞🌿੭‎ ${usedPrefix}setkick *texto*
 ⠞🌿੭‎ ${usedPrefix}groupdesc *texto*
-⠞🌿੭‎ ${usedPrefix}setbye *texto*
 ⠞🌿੭‎ ${usedPrefix}promote *@tag*
 ⠞🌿੭‎ ${usedPrefix}demote *@tag*
 ⠞🌿੭‎ ${usedPrefix}kick *@tag*
 ⠞🌿੭‎ ${usedPrefix}mute *@tag*
-⠞🌿੭‎ ${usedPrefix}inactivos *opción*
 ⠞🌿੭‎ ${usedPrefix}tagnum *prefix*
 ⠞🌿੭‎ ${usedPrefix}link
+⠞🌿੭‎ ${usedPrefix}delete
 ⠞🌿੭‎ ${usedPrefix}fantasmas
 
 ↷✦; \`EFFECTS\` ❞ 🍃︵᷼ 
