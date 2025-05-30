@@ -287,18 +287,25 @@ await conn.sendMessage(m.chat, {
 }, { quoted: fkontak });
 }*/
 
+// Dentro de tu función handler
 await conn.sendMessage(m.chat, {
   buttons: [
-    { buttonId: isEnable ? `.off ${type}` : `.on ${type}`, buttonText: { displayText: isEnable ? '🔴 Off' : '🟢 On' }, type: 1 },
-    { buttonId: '.menu', buttonText: { displayText: 'Menú ☕' }, type: 1 }
+    { buttonId: isEnable ? `.off ${type}` : `.on ${type}`, 
+      buttonText: { displayText: isEnable ? '🔴 Off' : '🟢 On' }, 
+      type: 1 
+    },
+    { buttonId: '.menu', 
+      buttonText: { displayText: 'Menú ☕' }, 
+      type: 1 
+    }
   ],
   text: `*» OPCION |* ${type.toUpperCase()}\n*» ESTADO |* ${isEnable ? 'ON' : 'OFF'}\n*» PARA |* ${isAll ? 'ESTE BOT' : isUser ? '' : 'ESTE CHAT'}`,
   footer: dev,
   headerType: 1
 }, { quoted: fkontak });
 
-handler.help = ['enable', 'disable']
-handler.tags = ['nable', 'owner']
-handler.command = ['enable', 'disable', 'on', 'off', '1', '0']
+// Cierra la función con este corchete
+}
 
+// Luego exportas
 module.exports = handler;
